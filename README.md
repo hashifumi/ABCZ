@@ -1,9 +1,9 @@
 # ebibot
 
-Watch updates of [@abcz_official](https://twitter.com/h_Takizawa329)'s Twitter account profiles and Tweet when changes are made.  
+Watch updates of [@abcz_official](https://twitter.com/abcz_official)'s Twitter account profiles and Tweet when changes are made.  
 By changing `TARGET_USER_ID` in [constants.ts](constants.ts), you can watch any Twitter user if the profile is accessible (i.e. if the user's profile is public or your bot is following the user).
 
-This bot is running on [@EBIBOT2010201](https://twitter.com/bioBOT52342033).
+This bot is running on [@EBIBOT2010201](https://twitter.com/EBIBot20120201).
 
 ## Installation
 
